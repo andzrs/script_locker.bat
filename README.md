@@ -1,1 +1,1 @@
-# script_locker.bat
+hello this is
